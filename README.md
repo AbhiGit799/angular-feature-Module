@@ -38,8 +38,12 @@ now creating normal component inside company module  <br/>
 
 ng g c comapny/company-list <------- command  <br/>
 
+<b> I also demonstrated the concept of Canload Guard and CanActivate Guard </b>  <br/>
+
+
  <br/> <br/>
 
+ 
 Software Used <br/>
 node --version = v14.20.0 <br/>
 npm --version = 6.14.17 <br/>
