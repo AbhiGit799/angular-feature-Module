@@ -24,9 +24,8 @@ Command for adding routing file in Module => ng g m modulename --routing   <br/>
 Command to add module automatically inside app.module.ts file  <br/>
 ng g m modulename --routing --flat --module=app  <br/>
 
- <b>Example for Creating Module in Angular</b>
 
-Ex of eager loading  <br/>
+<b>Example for Creating Module in Angular</b>
 
 ng g m company --routing --module=app   <br/>
 
