@@ -4,8 +4,7 @@ Hi, <br/>
 
 This is a simple Angular POC created by Abhishek Choubey. <br/>
 
-In this POC I tried to demonstrate <br/>
-Feature Module concepts in Angular. <br/>
+In this POC I tried to demonstrate Feature Module concepts in Angular. <br/>
 
 Here,<br/>
 I used following types of loading:-<br/>
